@@ -1,0 +1,60 @@
+.float{
+	
+	
+	margin-left:570px;
+	margin-top:20px;
+	
+}
+
+.float-end{
+	
+	margin-top:10px;
+}
+
+p a{
+	
+	color:white;
+	
+}
+
+.navbar{
+	margin-top:15px;
+	background-color:#C38D9E;
+	color:white;
+	text-align:center;
+	text-decoration:none;
+	
+}
+
+#one{
+	font-style:italic;
+	font-family:'Poppins', sans-serif;
+	background-color:#65cd9b;
+}
+
+#two{
+	
+	background-color:#C38D9E;
+}
+
+
+.contact{
+	
+	border-style:solid;	
+}
+
+.text{
+	color:green;
+}
+
+.found{
+	 
+	background-color:#c5d3d1;
+}
+
+.container{
+     background-color:#b0e0e6;
+
+}
+
+	
